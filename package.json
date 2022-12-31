@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^1.0.7"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "material-components-web": "0.13.0",
